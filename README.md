@@ -8,8 +8,8 @@ Find out more about my experience and aspirations over on my [GitHub CV](https:/
 
 🌱  **I’m currently learning...** Ruby on Rails & React  
 🔭  **At the moment I'm working on...** Job hunting for my first role as a developer.   
-🔍  **I'm interested in...** Discovering new techniques for writing clean & solid code.
-💬  **Ask me about...** my journey into tech  
+🔍  **I'm interested in...** Discovering new techniques for writing clean & solid code.\
+💬  **Ask me about...** My journey into tech.\
 🌌  **When I'm not coding...** I'm playing the drums or watching something to do with science or science-fiction.
 
 
