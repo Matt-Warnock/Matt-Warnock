@@ -2,7 +2,7 @@
 
 I'm Matt (they/them)—a [Maker](https://makers.tech/) and full-stack developer with a background in musical instrument and high-end home entertainment sales. I have recently graduated from Makers after teaching myself to code with the help of a mentor. I really enjoy programming, as I love to solve problems with logic with-in a rule-based system and striving towards cleaner more efficient code.
 
-Find out more about my experience and aspirations over on my [GitHub CV](https://github.com/Matt-Warnock/CV) or scroll down to to the drop down menu and check-out some of my favourite projects. ✨
+Find out more about my experience and aspirations over on my [GitHub CV](https://github.com/Matt-Warnock/CV) or click on drop down menu and check-out some of my favourite projects. ✨
 
 ## More about me:
 
