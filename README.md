@@ -39,8 +39,8 @@ I love building well tested, clean and solid code, I get a lot of satisfaction l
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Bar.io Back-end](https://github.com/Matt-Warnock/barrio-backend) [Bar.io  Front-end](https://github.com/Matt-Warnock/barrio-frontend)** | Bar location app we did as a team project at Makers<br/>(I worked on the back-end). | React, Express, Node.js, Jest |
-| **[Chitter Challenge](https://github.com/Matt-Warnock/chitter-challenge)** | Message board app based on Twitter. | Ruby, PostGreSQL, Sinatra, Rspec |
+| **[Bar.io](https://bario-frontend.herokuapp.com/)** | Bar location app we did as a team project at Makers<br/>(I worked on the [back-end](https://github.com/Matt-Warnock/barrio-backend)). | React, Express, Node.js, Jest |
+| **[Chitter Challenge](https://chitter-challenge-matt.herokuapp.com/chitter)** | Message board app based on Twitter. | Ruby, PostGreSQL, Sinatra, Rspec |
 | **[Airport Challenge](https://github.com/Matt-Warnock/airport_challenge)** | Weekend challenge airport controller back-end. | Ruby, Rspec |
 
 
