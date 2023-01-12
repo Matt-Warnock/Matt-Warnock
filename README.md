@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Matt (they/them)—a full-stack software Craftperson at [Codurance](https://www.codurance.com/) with a background in musical instrument and high-end home entertainment sales. I really enjoy programming, as I love to solve problems with logic with-in a rule-based system and striving towards cleaner more efficient code.
+I'm Matt (they/them)—a full-stack software Craftsperson at [Codurance](https://www.codurance.com/) with a background in musical instrument and high-end home entertainment sales. I really enjoy programming, as I love to solve problems with logic with-in a rule-based system and striving towards cleaner more efficient code.
 
 Find out more about my experience and aspirations over on my [GitHub CV](https://github.com/Matt-Warnock/CV) or click on drop down menu and check-out some of my favourite projects. ✨
 
