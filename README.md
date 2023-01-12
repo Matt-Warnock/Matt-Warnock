@@ -16,7 +16,7 @@ Find out more about my experience and aspirations over on my [GitHub CV](https:/
 ## Find me here:
 
 [![Linkedin profile](https://img.shields.io/badge/Linkedin-Matt%20Warnock-0077B5?style=social&logo=linkedin&?labelColor=fff)](https://www.linkedin.com/in/matthew-warnock-67002b85/)<br>
-*to get in touch about work opportunities* 💻 💼
+*to get in touch* 💻 💼
 
 ## CV
 
