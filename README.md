@@ -1,15 +1,15 @@
 ### Hello! 👋
 
-I'm Matt (they/them)—a [Maker](https://makers.tech/) and full-stack developer with a background in musical instrument and high-end home entertainment sales. I have recently graduated from Makers after teaching myself to code with the help of a mentor. I really enjoy programming, as I love to solve problems with logic with-in a rule-based system and striving towards cleaner more efficient code.
+I'm Matt (they/them)—a full-stack software Craftperson at [Codurance](https://www.codurance.com/) with a background in musical instrument and high-end home entertainment sales. I really enjoy programming, as I love to solve problems with logic with-in a rule-based system and striving towards cleaner more efficient code.
 
 Find out more about my experience and aspirations over on my [GitHub CV](https://github.com/Matt-Warnock/CV) or click on drop down menu and check-out some of my favourite projects. ✨
 
 ## More about me:
 
-🌱  **I’m currently learning...** Ruby on Rails & React  
-🔭  **At the moment I'm working on...** Job hunting for my first role as a developer.   
-🔍  **I'm interested in...** Discovering new techniques for writing clean & solid code.\
-💬  **Ask me about...** My journey into tech.\
+🌱  **I’m currently learning...** Python & React  
+🔭  **At the moment I'm working on...** Practicing Design patterns.   
+🔍  **I'm interested in...** Soft skills training and discovering new techniques for writing clean & solid code.\
+💬  **Ask me about...** Anything to do with TVs or music tech.\
 🌌  **When I'm not coding...** I'm playing the drums or watching something to do with science or science-fiction.
 
 
