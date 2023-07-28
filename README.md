@@ -1,8 +1,8 @@
 ### Hello! 👋
 
-I'm Matt (they/them)—a full-stack software Craftsperson at [Codurance](https://www.codurance.com/) with a background in musical instrument and high-end home entertainment sales. I really enjoy programming, as I love to solve problems with logic with-in a rule-based system and striving towards cleaner more efficient code.
+I'm Matt (they/them)—a full-stack software developer with a background in consulting at [Codurance](https://www.codurance.com/) and in musical instrument/high-end home entertainment sales. I really enjoy programming, as I love to solve problems with logic with-in a rule-based system and striving towards cleaner more efficient code.
 
-Find out more about my experience and aspirations over on my [GitHub CV](https://github.com/Matt-Warnock/CV) or click on drop down menu and check-out some of my favourite projects. ✨
+Find out more about my experience and aspirations over on my [GitHub CV](https://github.com/Matt-Warnock/CV) or click on drop down menu and check-out some of my favorite projects. ✨
 
 ## More about me:
 
@@ -10,7 +10,7 @@ Find out more about my experience and aspirations over on my [GitHub CV](https:/
 🔭  **At the moment I'm working on...** Practicing Design patterns.   
 🔍  **I'm interested in...** Soft skills training and discovering new techniques for writing clean & solid code.\
 💬  **Ask me about...** Anything to do with TVs or music tech.\
-🌌  **When I'm not coding...** I'm playing the drums or watching something to do with science or science-fiction.
+🌌  **When I'm not coding...** I'm playing the drums, following the progress of Starship or watching science-fiction shows.
 
 
 ## Find me here:
@@ -24,24 +24,17 @@ Find out more about my experience and aspirations over on my [GitHub CV](https:/
 
 ## Matthew Warnock
 
-I love building well tested, clean and solid code, I get a lot of satisfaction learning and applying new techniques to refactor for efficiency and readability. I found my joy in coding, working on projects with my mentor and getting regular PR reviews. Throughout my career I have always been active in learning various types of technologies. Which drew me to audio/visual sales, because I would spend most of my spare time looking at reviews and technical info for fun. I am driven to understand the details so I can be better prepared to help others.
-
-## Pre-Makers Projects
-
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **[WeatherAPI App](https://github.com/Matt-Warnock/weatherAPI_app)** | An app that give today's weather report. | JavaScript, Ruby, Sinatra, SQLite3, Rspec |
-| **[Contact Book](https://github.com/Matt-Warnock/contact-book)** | A CLI app for storing people's contacts. | Ruby, SQLite3, Rspec |
-| **[Metal To-Do List](https://github.com/Matt-Warnock/to_do_list)** | A page to write a to-do list and cross off when done. | JavaScript, Jasmine, CSS |
+love building well tested, clean and solid code. I get a lot of satisfaction from learning new techniques that enable me to improve the readability and efficiency of code. I found my joy in coding by working on projects with my mentor and getting regular PR reviews. Throughout my career I have always been proactive with self-development by learning new technologies in my spare time. This drew me to audio/visual sales because I would spend most my spare time looking at reviews and technical info for fun. I am driven to understand the details so that I can be better prepared to help others.
 
 
-## Makers Projects
+## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
+| **[CoduraWise](https://github.com/Matt-Warnock/CoduraWise)** | Resource sharing platform project at Codurance | React, TypeScript, Java, AWS, MySQL |
 | **[Bar.io](https://github.com/Matt-Warnock/barrio-backend)** | Bar location app we did as a team project at Makers. | React, Express, Node.js, Jest |
 | **[Chitter Challenge](https://chitter-challenge-matt.herokuapp.com/chitter)** | Message board app based on Twitter. | Ruby, PostGreSQL, Sinatra, Rspec |
-| **[Airport Challenge](https://github.com/Matt-Warnock/airport_challenge)** | Weekend challenge airport controller back-end. | Ruby, Rspec |
+| **[WeatherAPI App](https://github.com/Matt-Warnock/weatherAPI_app)** | An app that give today's weather report. | JavaScript, Ruby, Sinatra, SQLite3, Rspec |
 
 
 
@@ -62,19 +55,29 @@ I would spend time investing such claims carefully to ascertain the facts. This 
 
 ## Tech Experience
 
+**Codurance (Aug 2022 - July 2023)**
+_Craftsperson Software Consultant_\
+_After successfully completing 4 months of training I was promoted to Software Craftsperson where I joined a R&D green-field project and shadowed a client modernization project. My training has enabled me to use XP practices to elevate the skills of those around me and act as a force multiplier within a team._
+
+- Java, React, TypeScript, some basic Python.
+- Received specialist in-house full-stack training covering: Outside-in TDD, SOLID,
+Refactoring, DDD, Macro Design, IaC, CI/CD, AWS Cloud Engineering.
+- Whilst on a R&D project I supported a team by guiding their use of Scrum/Kanban.
+- Collaboration with experienced developers furthered my knowledge of system design.
+
 **Makers Academy (Sept 2021 - Dec 2021)**
 _16 week intensive boot camp where I was taught a range of technologies and coding principles such as:_
 
-- OOP, TDD, MVC, DDD
-- Pair programming
-- Agile/XP
+- Object Oriented Programming & Behavioural Driven Design
+- TDD, Pair programming
+- Delivered three short projects using Agile & XP practices
 
 **Self-study Computing Programming (Dec 2019 - Aug 2021)**
 _Studied on-line courses at [codebar.io](http://tutorials.codebar.io/) and [codecadamy](https://www.codecademy.com/profiles/drflamerock) with the guidance from my mentor:_
 
-- HTML, CSS
+- Studied best practises on HTML & CSS
+- Practised TDD using Rspec & Jasmine
 - JavaScript, Ruby, Command Line & Git
-- TDD, RSpec, Jasmine
 
 ## Work Experience
 
@@ -87,9 +90,9 @@ _Senior sales assistant in drum department_
 **Bang & Olufsen (April 2015 - Mar 2018)**
 _Sales executive at luxury TV and hi-fi store_
 
-- Designed & project managed A/V systems in collaboration with installers.
+- Designed & managed A/V system installation projects in collaboration with installers.
 - Provided technical support to installers and clients.
-- Built client portfolios by carrying out sales & marketing campaigns and giving on-site assessment for installations.
+- Built client portfolios by carrying out sales & marketing campaigns as well as giving on-site assessments for installations.
 
 **Maplin (Sept 2014 - April 2015)**
 _Sales adviser at electronics store_
@@ -102,7 +105,7 @@ _Sales adviser at electronics store_
 _Drum technician at music hire specialist_
 
 - Teamwork led to timely fulfilment of orders in a fast paced based environment.
-- Created systems of equipment testing which improved reliability of orders sent.
+- Created a system of equipment testing which improved reliability of orders sent.
 - Creative problem solving with preparing orders to exact specification.
 
 ## Musical Experience
@@ -130,7 +133,7 @@ _Assistant engineer_
 
 **Additional work in music field**
 
-- Teaching class on music equipment setup & safety at Alchemea College.
+- Teaching a class on music equipment setup & safety at Alchemea College.
 - Freelance audio engineering & production for private clients.
 
 ## Further Education
@@ -146,7 +149,7 @@ _Assistant engineer_
 
 ## Hobbies
 
-I really enjoy comic book movies, meeting new people at Meetup groups and playing American pool. I also like to play drums in my spare time and occasionally play guitar as well.
+I really enjoy comic book movies, meeting new people at Meetup groups and playing American pool. I also like to play drums in my spare time and I occasionally play guitar as well.
 
 </details>
 
