@@ -6,11 +6,11 @@ Find out more about my experience and aspirations over on my [GitHub CV](https:/
 
 ## More about me:
 
-🌱  **I’m currently learning...** Python & React  
-🔭  **At the moment I'm working on...** Practicing Design patterns.   
-🔍  **I'm interested in...** Soft skills training and discovering new techniques for writing clean & solid code.\
-💬  **Ask me about...** Anything to do with TVs or music tech.\
-🌌  **When I'm not coding...** I'm playing the drums, following the progress of Starship or watching science-fiction shows.
+🌱  **I’m currently learning...** More and more front-end tech.\
+🔭  **At the moment I'm working on...** My side project [ClipGift](https://github.com/Matt-Warnock/clip-gift-backend).\
+🔍  **I'm interested in...** Front-end tech, discovering new techniques, framworks and libraries.\
+💬  **Ask me about...** Anything to do with JavaScript(I welcome the opportunity to help), TVs or music tech.\
+🌌  **When I'm not coding...** I'm playing the drums, following the progress of Starship or going to gigs.
 
 
 ## Find me here:
