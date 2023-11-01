@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Matt (they/them)—a full-stack software developer with a background in consulting at [Codurance](https://www.codurance.com/) and in musical instrument/high-end home entertainment sales. I really enjoy programming, as I love to solve problems with logic with-in a rule-based system and striving towards cleaner more efficient code.
+I'm Matt (they/them)—a full-stack software developer with a background in consulting at [Codurance](https://www.codurance.com/) and in musical instrument/high-end home entertainment sales. I enjoy working with others in the pursuit of crafting clean, solid and efficient code.
 
 Find out more about my experience and aspirations over on my [GitHub CV](https://github.com/Matt-Warnock/CV) or click on drop down menu and check-out some of my favorite projects. ✨
 
@@ -24,7 +24,7 @@ Find out more about my experience and aspirations over on my [GitHub CV](https:/
 
 ## Matthew Warnock
 
-love building well tested, clean and solid code. I get a lot of satisfaction from learning new techniques that enable me to improve the readability and efficiency of code. I found my joy in coding by working on projects with my mentor and getting regular PR reviews. Throughout my career I have always been proactive with self-development by learning new technologies in my spare time. This drew me to audio/visual sales because I would spend most my spare time looking at reviews and technical info for fun. I am driven to understand the details so that I can be better prepared to help others.
+As a detail orientated individual, I first identified my passion for technology by studying reviews and technical information in my spare time. To further this technical expertise, I moved into a career in software development where I have gained diverse experience and been able to consistently deliver well tested, clean, solid code. I am a passionate software developer, a self starter who enjoys learning new technologies and languages in my spare time. Whilst being pragmatic about delivery, I gain satisfaction from improving the readability and efficiency of code to ensure it is both extensible and maintainable and am looking for a challenging new role where I can start delivering value from day one.
 
 
 ## Projects
